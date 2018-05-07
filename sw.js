@@ -1,5 +1,3 @@
-
-
 const cacheName = 'reviews-v1';
 
 // Cache files.
